@@ -1,0 +1,39 @@
+{
+    "nome": "Aluna 10",
+    "data_nascimento": "1993-03-18T08:30:00.000Z",
+    "signo": "Peixes",
+    "ativa": true,
+    "habilidades": [
+        "BackEnd",
+        "Banco de Dados",
+        "Java",
+        "C#",
+        "HTML",
+        "CSS"
+    ]
+}
+
+{
+    "nome": "Aluna 11",
+    "data_nascimento": "1993-03-18T08:30:00.000Z",
+    "signo": "Câncer",
+    "ativa": true,
+    "habilidades": [
+        "FrontEnd",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ]
+},
+{
+    "nome": "Aluna 12",
+    "data_nascimento": "1993-03-18T08:30:00.000Z",
+    "signo": "Touro",
+    "ativa": true,
+    "habilidades": [
+        "FrontEnd",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ]
+}
