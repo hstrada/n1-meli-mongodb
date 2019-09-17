@@ -1,0 +1,58 @@
+[
+    {
+        "nome": "Helena Strada",
+        "data_nascimento": "1993-03-18T08:30:00.000Z",
+        "signo": "Peixes",
+        "ativa": true,
+        "habilidades": [
+            "BackEnd",
+            "Banco de Dados",
+            "Java",
+            "C#",
+            "Mobile",
+            "NodeJS"
+        ]
+    },
+    {
+        "nome": "Aluna 1",
+        "data_nascimento": "1990-01-01T08:30:00.000Z",
+        "signo": "Aquário",
+        "ativa": false,
+        "habilidades": [
+            "FrontEnd",
+            "Banco de Dados",
+            "JavaScript",
+            "React",
+            "Mobile",
+            "NodeJS"
+        ]
+    },
+    {
+        "nome": "Aluna 2",
+        "data_nascimento": "1992-02-02T08:30:00.000Z",
+        "signo": "Áries",
+        "ativa": true,
+        "habilidades": [
+            "NoSQL",
+            "Banco de Dados",
+            "React Native",
+            "Flutter",
+            "Mobile"
+        ]
+    },
+    {
+        "nome": "Aluna 3",
+        "data_nascimento": "1997-07-07T08:30:00.000Z",
+        "signo": "Libra",
+        "ativa": true,
+        "habilidades": [
+            "Mobile",
+            "Android",
+            "iOS",
+            "Kotlin",
+            "Java",
+            "UX",
+            "UI"
+        ]
+    }
+]
